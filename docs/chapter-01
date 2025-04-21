@@ -1,0 +1,208 @@
+# Capítulo I: Introducción
+
+## 1.1. StartUp Profile
+
+### 1.1.1. Descripción de la StartUp
+
+LogisticsMaster es una startup inovadora que ofrece plataforma principal que permite a los hoteles gestionar sus operaciones de manera más eficiente y mejorar la experiencia de sus huéspedes. KingReserve no solo es una herramienta para administrar reservas y personal, sino también para ofrecer servicios de manera accesible e intuitiva.
+
+- Misión: Nuestra misión se basa en apoyar a los jóvenes que quieran movilizarse de esta forma para que puedan conseguirlo sin tener que pagar tanto.
+<br>
+- Visión (Metas a medio o largo plazo): Poder asentarnos como la plataforma mas amigable para los jóvenes universitarios.
+
+
+### 1.1.2. Perfiles de Integrantes del equipo
+
+| Nombre Completo del integrante       | Descripcion de Carrera                                                                           | Fotografía                                      | Conocimientos y Habilidades a apuntar                                                                                                                                                                                                                                               |
+| ------------------------------------ | ------------------------------------------------------------------------------------------------ | ----------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Augusto Mathias Vasquez Requejo      | Ingeniería de Software<br> 6to Ciclo<br>2024-2<br>Universidad Peruana de Ciencias Aplicadas      | ![Mathias Vasquez](../assets/mathifaa%20(1)%20(1).png) | - Conocimientos en lenguajes de programación como C++, JavaScript, HTML, CSS.<br> - Responsabilidad y dedicación con los trabajos grupales.                                                                                                                                         |
+| Perez Tuesta Gabriel     | Ingeniería de Software<br> 5to Ciclo<br>2024-2<br>Universidad Peruana de Ciencias Aplicadas      | ![20231201_195611_499](https://github.com/user-attachments/assets/f382eb91-0264-4adb-826c-a4f66f287c79) | - Conocimientos de lenguajes de programación html, css y Javascript.<br>- Contribución en equipo y responsabilidad.  |
+| Fabian Alonso Reyes Trujillano     | Ingeniería de Software<br> 6to Ciclo<br>2024-2<br>Universidad Peruana de Ciencias Aplicadas      |  <img src="https://i.postimg.cc/9Q0Q9n7S/foto-fab.jpg" alt="pr" style="width: auto height: auto;"> | - Conocimientos en lenguajes de programacion como C++, C#, Python, JavaScript, etc.<br>- Trabajo bien bajo presion y aporto con ideas óptimas para la solucion de diferentes problemas. |
+| Apaza Morales Fabricio Josué Emanuel | Ingeniería de Software<br> 6to Ciclo <br> 2024-2 <br> Universidad Peruana de Ciencias aplicadas | ![Fabricio](../assets/fabricio.jpeg)        | - Conocimientos en lenguajes de programación como C++, Python, Html y CSS.Considero que puedo aportar en el equipo, ya que soy responsable y trato de cumplir con las partes que se delegan en el equipo. A la vez, colaboro con ideas para poder lograr un buen trabajo en equipo. |.      
+|Ernesto Casaverde De La Cruz| 6to Ciclo 2024-2 Universidad Peruana de Ciencias Aplicada | ![Ernesto](https://raw.githubusercontent.com/PecuarioPro/Documentation/release/assets/foto-frente-E.jpg)  | Desarrollé principalmente todo el diseño de la lading page y web aplication utlizando adecuadamente las herramientas Ux .|
+
+
+## 1.2. Solution Profile
+
+### 1.2.1. Antecedentes y Problemática
+
+Los antecedentes son esenciales para una comprensión más profunda de la problemática en cuestión. Por esta razón, hemos aplicado la técnica de las "5W 2H":
+
+**What:**
+
+- ¿Qué ofrece nuestro sitio web?
+
+Nuestro sitio web ofrece un servicio de alquiler de bicicletas, con un enfoque innovador en suscripción mensual accesible para jóvenes universitarios y planes flexibles para usuarios mayores o profesionales.
+
+- ¿Qué tipo de suscripción ofrecemos a los jóvenes universitarios?
+
+Ofrecemos un plan de suscripción mensual a un precio accesible para que los jóvenes universitarios puedan trasladarse a su universidad o a otros lugares de interés personal de manera económica.
+
+**Where:**
+
+- ¿Dónde pueden los jóvenes universitarios utilizar nuestras bicicletas?
+
+Pueden utilizar las bicicletas en sus trayectos a la universidad o para moverse por la ciudad hacia otros lugares de interés personal.
+
+- ¿Dónde pueden encontrar nuestro servicio de alquiler de bicicletas?
+
+Nuestro servicio está disponible a través de nuestra plataforma en línea, donde los usuarios pueden suscribirse y gestionar su alquiler de bicicletas.
+
+**When:**
+
+- ¿Cuándo pueden los jóvenes universitarios acceder al servicio de alquiler de bicicletas?
+
+Los universitarios pueden acceder a nuestro servicio de forma continua durante todo el año, con la flexibilidad de alquilar bicicletas por horas, días o mediante un plan mensual.
+
+-¿Cuándo se pueden beneficiar los usuarios de nuestros planes flexibles?
+
+Los usuarios pueden beneficiarse de nuestros planes en cualquier momento que necesiten moverse por la ciudad, ya sea por horas o días, según sus necesidades de transporte.
+
+**Who:**
+
+- ¿Quiénes se benefician de nuestro plan de suscripción mensual?
+
+Los jóvenes universitarios que buscan una alternativa económica y ecológica para moverse, especialmente aquellos que necesitan un transporte regular hacia la universidad.
+
+- ¿Quiénes son los usuarios de nuestros planes flexibles por horas o días?
+
+Los usuarios mayores o profesionales que necesitan una bicicleta de manera puntual para desplazarse por la ciudad por motivos de trabajo o actividades personales.
+
+**Why:**
+
+- ¿Por qué ofrecemos un plan accesible para jóvenes universitarios?
+
+Porque creemos en facilitar el transporte a los estudiantes sin que tengan que incurrir en altos costos, promoviendo una movilidad sostenible y económica.
+
+- ¿Por qué incluimos planes para usuarios mayores o profesionales?
+
+Porque entendemos que no solo los jóvenes necesitan opciones de transporte accesibles y ecológicas, sino también aquellos que buscan soluciones de movilidad flexibles para su vida diaria o profesional.
+
+**How:**
+
+- ¿Cómo pueden los jóvenes suscribirse a nuestro plan mensual?
+
+Los jóvenes universitarios pueden registrarse fácilmente en nuestra plataforma en línea, seleccionar el plan de suscripción mensual y empezar a usar una bicicleta de inmediato.
+
+- ¿Cómo pueden los usuarios mayores o profesionales alquilar una bicicleta?
+
+Los usuarios pueden alquilar bicicletas por horas o días a través de nuestra plataforma, seleccionando el plan que mejor se ajuste a sus necesidades de transporte.
+
+**How much:**
+
+- ¿Cuánto cuesta la suscripción mensual para los jóvenes universitarios?
+
+La suscripción mensual tiene un costo muy accesible, pensado específicamente para ajustarse al presupuesto de los jóvenes universitarios.
+
+- ¿Cuánto cuesta alquilar una bicicleta por horas o días para los usuarios profesionales o mayores?
+
+El costo de alquiler por horas o días es competitivo y accesible, asegurando que tanto estudiantes como profesionales puedan disfrutar de una movilidad económica.
+
+
+### 1.2.2. Lean UX Process
+
+### 1.2.2.1  Problem Statement
+ 
+## Ciudadanos Peruanos
+El crecimiento acelerado del turismo en Perú ha generado la creación de numerosas agencias de viajes y hoteles, impulsados por la alta demanda del sector. Sin embargo, la informalidad y la desorganización dentro del sector han llevado a una disminución en la productividad, afectando tanto a turistas como a trabajadores del sector. Además, la falta de coordinación y estándares de servicio en las agencias informales provoca una experiencia deficiente para los turistas, lo que puede impactar negativamente la reputación del turismo en el país.
+
+¿Cómo podemos mejorar la eficiencia y organización en el sector hotelero y turístico, garantizando al mismo tiempo que los servicios ofrecidos cumplan con altos estándares de calidad?
+
+Implementar Soluciones Tecnológicas para la Gestión:
+
+Desarrollar plataformas tecnológicas que integren la gestión de reservas, excursiones, y otros servicios turísticos, facilitando la coordinación y reduciendo los errores humanos.
+Capacitar al personal en el uso de tecnologías de la información para mejorar la eficiencia en la gestión de reservas y servicios hoteleros.
+
+Establecer Estándares de Calidad y Certificación:
+
+Introducir un sistema de certificación que garantice que las agencias de viajes y hoteles cumplen con estándares de servicio, incluyendo la correcta categorización de hoteles y excursiones, y la coincidencia de identidad y fechas en el destino.
+Ofrecer incentivos a aquellas agencias y hoteles que alcancen y mantengan altos estándares de calidad.
+
+Empresas Peruanas
+El aumento en la cantidad de agencias de viajes y hoteles, acompañado por la falta de eficiencia y desorganización, ha llevado a una reducción en la productividad del sector turístico en Perú. Las empresas, en su mayoría, enfrentan problemas derivados de la informalidad, como la descoordinación en las reservas y la deficiencia en los estándares de servicio. Esto afecta la satisfacción del cliente y puede llevar a una disminución en las ventas y la reputación del negocio.
+
+¿Cómo ayudamos a las empresas a mejorar la eficiencia y la organización en el sector hotelero, aumentando así su competitividad y garantizando una experiencia de calidad para los usuarios?
+
+Automatización y Mejora de Procesos:
+
+Implementar sistemas de gestión hotelera y de agencias de viajes que automatizan la coordinación de reservas y servicios, reduciendo errores y mejorando la eficiencia operativa.
+Adoptar tecnologías que permitan una mejor comunicación y coordinación con agencias de origen, asegurando la correcta programación de reservas y servicios de los hoteles.
+Incentivar la Formalización:
+
+Crear programas de incentivos que animen a las empresas informales a regularizar su situación, ofreciéndoles beneficios como acceso a financiamiento, capacitación, y promoción en plataformas turísticas oficiales.
+Establecer sanciones y controles más estrictos para reducir la competencia desleal de las empresas informales.
+
+### 1.2.2.2 Lean Ux Assumptions 
+
+### Buisness Assumptions
+-Creo que mis clientes (hoteles ) necesitan una mejora en la eficiencia y organización del proceso de reservas para reducir errores, mejorar la calidad del servicio y competir con las operaciones informales.
+
+-Estas necesidades se pueden resolver con una aplicación que centralice y automatice el proceso de reservas, integrando servicios como la reserva de habitaciones, excursiones, y restaurantes, y mejorando la comunicación entre hoteles
+
+-Mis clientes iniciales serán hoteles que enfrentan problemas de desorganización y errores en sus sistemas de reservas 
+
+-El valor número 1 que un cliente quiere obtener de mi producto es una gestión de reservas más eficiente y sin errores, lo que mejora la experiencia del cliente final y optimiza la ocupación hotelera.
+
+-Obteneré la mayoría de mis clientes a través de recomendaciones, asociaciones con agencias de viaje y publicidad dirigida en plataformas digitales.
+
+-Ganaré dinero mediante comisiones sobre cada reserva procesada a través de la aplicación, así como tarifas de suscripción para el uso de la plataforma por parte de los hoteles.
+
+-Mi competencia en el mercado serán las soluciones de gestión de reservas ya establecidas y las operaciones informales que ofrecen precios más bajos a costa de la calidad.
+
+-Los venceremos debido a nuestra capacidad de integrar múltiples servicios en una sola plataforma, mejorar la precisión en las reservas, y ofrecer soporte continuo a los usuarios.
+
+-Mi mayor riesgo es la resistencia al cambio por parte de los hoteles y agencias acostumbrados a métodos tradicionales o informales de gestión.
+
+-Resolveremos esto proporcionando formación y soporte continuo, demostrando las ventajas de la automatización y la mejora de la eficiencia.
+
+-Sabremos que tenemos éxito cuando veamos un aumento en la adopción de la plataforma, una reducción en los errores de reserva, y un incremento en la satisfacción del cliente final.
+
+### User Assumptions
+¿Quién es el usuario?
+Los usuarios incluyen hoteles que buscan mejorar la gestión de sus reservas, agencias de viaje que necesitan coordinar mejor los servicios turísticos y huéspedes que desean una experiencia de reserva más fluida y personalizada.
+
+¿Qué problemas resuelve nuestro producto?
+Nuestro producto resuelve problemas de desorganización, errores en la gestión de reservas, y la falta de coordinación entre hoteles, agencias de viaje y huéspedes. Además, mejora la experiencia de los huéspedes al ofrecer un proceso de reserva más transparente y eficiente.
+
+¿Qué características son importantes?
+Es crucial que el producto permita la gestión integral de reservas y servicios asociados en una sola plataforma de manera eficiente, confiable y sin errores. Para los huéspedes, es importante que puedan acceder fácilmente a la información de su reserva, opciones de servicios adicionales, y comunicarse con el hotel o la agencia en cualquier momento.
+
+¿Dónde encaja nuestro producto en su trabajo o vida?
+Para los hoteles y agencias de viaje, el producto encaja en su operación diaria, optimizando la gestión de reservas y mejorando la coordinación de servicios. Para los huéspedes, el producto se integra en su experiencia de viaje, facilitando la reserva y personalización de servicios antes y durante su estancia.
+
+¿Cuándo y cómo es nuestro producto usado?
+El producto es utilizado cada vez que los hoteles o agencias necesitan gestionar reservas y coordinar servicios turísticos, y cada vez que los huéspedes necesitan reservar alojamiento, personalizar su estancia o consultar su itinerario.
+
+¿Cómo debe verse nuestro producto y cómo debe comportarse?
+El producto debe ser intuitivo, fácil de usar y altamente funcional. Los usuarios deben poder gestionar reservas, coordinar servicios y realizar consultas de manera rápida, sencilla y precisa, mientras los huéspedes disfrutan de un proceso de reserva claro y una comunicación fluida con el hotel .
+
+### 1.2.2.3Lean Ux Proccess Hypothesis Statement
+Usuario Huésped
+Creemos que, al desarrollar una aplicación que centralice y automatice el proceso de reservas y servicios turísticos, mejoraremos la experiencia de los huéspedes al ofrecerles un proceso de reserva más sencillo, rápido y personalizado.
+
+Lograremos que los huéspedes disfruten de una experiencia de hospedaje, sin complicaciones en las reservas y con opciones personalizadas según sus necesidades.
+
+Sabremos que hemos tenido éxito cuando el número de reservas realizadas a través de la aplicación haya incrementado sus ingresos durante los primeros tres meses posteriores al lanzamiento.
+
+Usuario Empresa (Hoteles y Agencias de Viaje)
+Creemos que, al optimizar la gestión de reservas y la coordinación de servicios a través de nuestra plataforma, reduciremos los errores y desorganización, mejorando la ocupación y la satisfacción del cliente.
+
+Lograremos evitar problemas de desorganización y comunicación que resultan en cancelaciones y bajas tasas de ocupación, además de reducir los costos asociados con estos errores.
+
+Sabremos que hemos tenido éxito cuando la totalidad de las reservas gestionadas a través de la plataforma hayan sido procesadas sin errores, y los hoteles  reporten una mejora en su eficiencia operativa.
+
+#### 1.2.2.4. Lean UX Canvas
+
+- Mediante la realizacion Lean UX Canvas podemos mostrar toda informacion anterior pero de una manera resumida, didactica y mas accesible al lector. Tambien se resume la problematica que estamos abordando y la solucion que proponemos, junto con los supuestos de las hipotesis y los puntos mas importantes de las mismas.
+
+![Lean UX Canvas](../assets/BICIBREEZE%20CANVAS.png)
+
+## 1.3. Segmento Objetivo
+
+#### 1. Empresas Hoteleras:
+
+Este segmento se enfoca en cadenas hoteleras, hoteles boutique y resorts que buscan transformar sus operaciones mediante la implementación de soluciones tecnológicas avanzadas. Estas empresas están comprometidas con la mejora continua de sus procesos operativos y la optimización de la experiencia de sus huéspedes. Su principal objetivo es integrar herramientas que les permitan gestionar reservas, coordinar al personal y ofrecer un servicio al cliente de alta calidad de manera más eficiente. Buscan reducir la carga administrativa mediante la automatización de tareas y mejorar la comunicación interna para una gestión más fluida. Además, valoran las oportunidades de colaborar con otros profesionales del sector, compartir buenas prácticas y estar al tanto de las últimas tendencias en gestión hotelera para mantener un estándar elevado en sus operaciones.
+
+#### 2. Huéspedes:
+
+Este segmento está compuesto por viajeros que buscan una experiencia de alojamiento personalizada y de alta calidad. Los huéspedes valoran una experiencia que se ajuste a sus preferencias individuales, desde la facilidad de reserva hasta la atención personalizada durante su estancia. Están interesados en un proceso de reserva intuitivo que simplifique la planificación de su viaje y en recibir un servicio al cliente eficiente que pueda resolver cualquier inconveniente de manera rápida. Además, aprecian servicios y comodidades que mejoren su confort y hagan su estancia más placentera. La capacidad de personalizar su experiencia y acceder a un servicio excepcional son factores clave para su satisfacción y fidelización.
